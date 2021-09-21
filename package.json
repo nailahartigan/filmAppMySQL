@@ -1,0 +1,25 @@
+{
+  "name": "film_app_mysql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000l\u0000m\u0000A\u0000p\u0000p\u0000M\u0000y\u0000S\u0000Q\u0000L\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailahartigan/filmAppMySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nailahartigan/filmAppMySQL/issues"
+  },
+  "homepage": "https://github.com/nailahartigan/filmAppMySQL#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
